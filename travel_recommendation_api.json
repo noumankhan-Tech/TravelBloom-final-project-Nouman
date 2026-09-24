@@ -37,13 +37,13 @@
     {
       "id": 1,
       "name": "Angkor Wat, Cambodia",
-      "imageUrl": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/20171126_Angkor_Wat_4712_DxO.jpg",
       "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
       "id": 2,
       "name": "Taj Mahal, India",
-      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
       "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
   ],
@@ -51,13 +51,13 @@
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bora_Bora_may_2007.jpg",
       "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Copacabana_Beach%2C_Rio_de_Janeiro%2C_Brazil.jpg",
       "description": "A famous beach in Rio de Janeiro known for its vibrant atmosphere."
     }
   ]
