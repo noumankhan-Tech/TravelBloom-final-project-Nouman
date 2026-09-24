@@ -27,4 +27,38 @@
         },
         {
           "name": "Kyoto, Japan",
-          "imageUrl": "https://images.unsplash.com/photo
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600",
+          "description": "Known for its classical Buddhist temples and beautiful gardens."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/20171126_Angkor_Wat_4712_DxO.jpg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600",
+      "description": "A famous beach in Rio de Janeiro known for its vibrant atmosphere."
+    }
+  ]
+}
